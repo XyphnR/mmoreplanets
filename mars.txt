@@ -2,3 +2,4 @@ Mars is nice.
 Mars is red.
 I like Mars.
 Mars has moons, too. Those might b enice. Moonlight on the... volcano?
+Add concerns about effects of Mars' moons on Wolfman
